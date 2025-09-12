@@ -97,10 +97,3 @@ pip install speechrecognition pyttsx3 pywhatkit
 
 ---
 
-## 📂 Project Structure  
-```
-├── voiceassistant.py
-├── BMI calculator.py
-├── Password_Generator.py
-└── README.md
-```
