@@ -145,16 +145,25 @@ Prediction
 
 
 ---
+## 🚀 How to Run
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/DGAN45/Oasis-Infobyte---.git
+```
 
+### 2. Go to the project folder
+```bash
+cd Oasis-Infobyte---/Project-1
+```
 
-### Run
-
-Open the Jupyter Notebook and execute all cells.
-
+### 4. Start Jupyter Notebook
 ```bash
 jupyter notebook
 ```
+
+### 5. Open and run
+Open `iris flower classification.ipynb` and click **Run All**.
 
 ---
 
