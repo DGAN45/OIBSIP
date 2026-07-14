@@ -157,12 +157,12 @@ git clone https://github.com/DGAN45/Oasis-Infobyte---.git
 cd Oasis-Infobyte---/Project-1
 ```
 
-### 4. Start Jupyter Notebook
+### 3. Start Jupyter Notebook
 ```bash
 jupyter notebook
 ```
 
-### 5. Open and run
+### 4. Open and run
 Open `iris flower classification.ipynb` and click **Run All**.
 
 ---
