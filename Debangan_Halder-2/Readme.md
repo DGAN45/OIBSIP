@@ -119,20 +119,17 @@ The notebook generates:
 
 ## ▶️ How to Run
 
-1. Clone this repository.
-
+### 1. Clone the repository
 ```bash
-git clone <repository-link>
+git clone https://github.com/DGAN45/OIBSIP.git
 ```
 
-2. Install required libraries.
-
+### 2. Go to the project folder
 ```bash
-pip install pandas numpy matplotlib seaborn
+cd OIBSIP/Debangan_Halder-2
 ```
 
-3. Open the notebook.
-
+### 3. Start Jupyter Notebook
 ```bash
 jupyter notebook
 ```
