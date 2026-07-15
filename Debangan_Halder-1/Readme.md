@@ -149,12 +149,12 @@ Prediction
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DGAN45/Oasis-Infobyte---.git
+git clone https://github.com/DGAN45/OIBSIP.git
 ```
 
 ### 2. Go to the project folder
 ```bash
-cd Oasis-Infobyte---/Project-1
+cd OIBSIP/Debangan_Halder-1
 ```
 
 ### 3. Start Jupyter Notebook
