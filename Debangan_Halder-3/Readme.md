@@ -160,25 +160,19 @@ The notebook contains:
 
 # ⚙️ Installation
 
-## 1️⃣ Clone the Repository
+## 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/DGAN45/.git
+git clone https://github.com/DGAN45/OIBSIP.git
 ```
 
-## 2️⃣ Navigate to the Project Directory
+## 2️ Navigate to the Project Directory
 
 ```bash
-cd Car-Price-Prediction
+cd OIBSIP/Debangan_Halder-3
 ```
 
-## 3️⃣ Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-## 4️⃣ Launch Jupyter Notebook
+## 3 Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -247,8 +241,6 @@ Through this project, the following concepts were learned:
 # 📜 License
 
 This project is licensed under the **MIT License**.
-
-See the **LICENSE** file for more details.
 
 ---
 
